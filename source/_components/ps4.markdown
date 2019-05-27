@@ -161,6 +161,14 @@ Full list of supported commands.
 | `left`   | Swipe Left       |
 | `right`  | Swipe Right      |
 
+
+#### {% linkable_title Standard media_player services %}
+
+Example of sources for media_player.select_source
+
+- Youtube
+- Netflix
+
 ## {% linkable_title Troubleshooting %}
 
 ### {% linkable_title Cover Art Issues %}
